@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Dimension';
+    font-syle: normal;
+    font-weight: normal;
+    src: local('Dimension'), url('Dimension.otf') format('otf');
+
+}
+
+
+h1{
+    font-family: 'Dimension';
+    font-weight: 200;
+    color: #F0F1F5
+}
